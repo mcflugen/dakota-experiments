@@ -21,7 +21,7 @@ variables
     #upper_bounds     400.0   1.0
     #lower_bounds     0.0   0.001
     upper_bounds     400.0   1.0
-    lower_bounds     0.0   0.000001
+    lower_bounds     0.0    -0.1
     descriptors      'c'     'p'
 
 interface
